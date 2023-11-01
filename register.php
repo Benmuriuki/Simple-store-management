@@ -4,6 +4,16 @@
 <head>
   <title>Simple Store</title>
   <link rel="stylesheet" type="text/css" href="style.css">
+  <style>
+	body {
+      background-image: url('images/bg-sign.jpg'); 
+      background-size: cover;
+      background-position: center;
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+	</style>
 </head>
 <body>
   <div class="header">

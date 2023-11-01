@@ -6,7 +6,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <style>
 	 body {
-      background-image: url('images/bg-logo.jpg'); 
+      background-image: url('images/bg-log.jpg'); 
       background-size: cover;
       background-position: center;
       font-family: 'Arial', sans-serif;
